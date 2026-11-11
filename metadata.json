@@ -1,0 +1,6 @@
+{
+  "name": "SHEAR - Premium Hair Artistry & Design",
+  "description": "Where architectural precision meets fluid artistry. London's premier destination for high-end hair design and sculptural styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
